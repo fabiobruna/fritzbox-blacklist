@@ -1,7 +1,7 @@
 :do_not_litter: Fritz!Box Blacklist
 ===================================
 
-Een lijst te blokkeren domeinen in de Fritz!Box. Geen add blcoker meer nodig op elke aparte telefoon, tablet of desktop.
+Een lijst te blokkeren domeinen in de Fritz!Box. Geen addblocker meer nodig op elke aparte telefoon, tablet of desktop.
 
 Instructies
 ------------
